@@ -31,6 +31,7 @@
 .col-84c0a0 {
   color: #84c0a0;
 }
+
 .cursor-pointer {
   cursor: pointer;
 }
@@ -114,6 +115,7 @@
 .html {
   font-family: "Montserrat", sans-serif, serif, "times new Roman", georgia, roboto;
 }
+
 .image-pine {
   background-image: url("images/pine.jpeg");
 }
@@ -147,7 +149,7 @@
 }
 
 .margin-20right {
-  margin: 0 20px 0 0 ;
+  margin: 0 20px 0 0;
 }
 
 .margin-40auto {
